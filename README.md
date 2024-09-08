@@ -59,9 +59,7 @@ The "Blockchain-Infused NFT Concentration Game" project integrates classic card 
 ## Getting Started
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   
 2. **Install Dependencies**
    npm install
 
@@ -76,12 +74,6 @@ The "Blockchain-Infused NFT Concentration Game" project integrates classic card 
 
 6. **Run Tests**
    npx truffle test
-
-## Future Work
-
-- **Frontend Development**: Complete the frontend part to enhance user experience.
-- **Scalability Improvements**: Address scalability and performance enhancements.
-- **Additional Features**: Implement new features based on user feedback and technological advancements.
 
 ## Contributing
 
