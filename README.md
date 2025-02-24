@@ -2,7 +2,9 @@
 
 ## Overview
 
-![Battlegrounds](./assets/images/battleground.png
+![Battlegrounds](https://github.com/user-attachments/assets/7dc719cf-b4c3-4a5d-9be2-8edd60fe5c3c)
+
+![Game Preview](https://github.com/user-attachments/assets/d97350fe-1262-44c4-9eba-57e039273cca)
 The "Blockchain-Infused NFT Concentration Game" project integrates classic card game mechanics with modern Web 3 technologies, including blockchain, decentralized storage, and smart contracts. This project reimagines the traditional Concentration card game by leveraging the power of Web 3 to offer enhanced security, true ownership of in-game assets, and a decentralized gaming ecosystem.
 
 ## Working of the Project
